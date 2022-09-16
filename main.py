@@ -1,4 +1,3 @@
-# база слов, которая участвует в программе
 from typing import List
 import random
 
